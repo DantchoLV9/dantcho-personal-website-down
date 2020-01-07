@@ -1,2 +1,2 @@
 # dantcho-personal-website-down
-A page used when my blog is down
+A quick page I made for when my website is down
